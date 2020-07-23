@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GuessApp</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="guessapp">GuessApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name!</string>
+    <string name="name">Name</string>
+    <string name="start">Start</string>
+    <string name="well_guess_what_color_it_is">Well, guess what color it is?</string>
+    <string name="olma">Olma</string>
+    <string name="submit">submit</string>
+    <string name="todo">TODO</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="username">Username</string>
+    <string name="your_score_is_8_out_of_10">Your Score is 8 out of 10</string>
+    <string name="finish">FINISH</string>
+    <string name="go_next">GO TO NEXT QUESTION</string>
+</resources>
